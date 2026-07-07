@@ -1,4 +1,4 @@
-# Airbnb_EDA
+# Airbnb EDA
 # Project Summary -
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present a unique, individualized way of passing the world. Airbnb is of a kind service that's used and honored by the whole world. Data analysis on millions of rosters handed through Airbnb is a pivotal factor for the company. These millions of rosters induce a lot of data that can be anatomized and used for security, business opinions, understanding of guests and providers(hosts)and performance on the platform, guiding marketing enterprise, perpetration of innovative fresh services, and much further.
 
